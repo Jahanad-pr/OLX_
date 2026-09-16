@@ -2,6 +2,8 @@
 
 A simple OLX (classifieds/marketplace) UI clone built with React + Vite, styled with Tailwind CSS, using Firebase for auth/data.
 
+[Live view]([https://note-app-five-pink.vercel.app/](https://olx-beige.vercel.app/))
+
 ## Tech Stack
 
 React 18 · Vite · Tailwind CSS · Firebase · React Router · Framer Motion
